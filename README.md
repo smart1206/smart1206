@@ -1,28 +1,25 @@
 <h1> Hello Fellow < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Chinmay+Sonawane;Computer+Engineering+Student;Cooking+Projects;%40chinmay29hub">
-</p>
-<p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <hr>
 <br>
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=chinmay29hub">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/chinmay29hub?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
+<img src="https://komarev.com/ghpvc/?username=smart1206">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/smart1206?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=smart1206.visitor-badge"> -->
 </p>
 <br>
 
 ## Github Contribution Streak 🔥 
 <br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmay29hub&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=smart1206&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 <hr><br>
 
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=chinmay29hub&show_icons=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=smart1206&show_icons=true&theme=github_dark">
 </p>
 <hr>
 <br>
@@ -30,7 +27,7 @@
 ## Most Used Languages 📚
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chinmay29hub&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=smart1206&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 <p align='center'>
 <h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
@@ -98,19 +95,19 @@
 ### Social Media 🔗 :
 <br>
 <p align='center'>
-<a href="mailto:chinmaysonawane57@gmail.com" target="_blank">
+<a href="mailto:jacksonpiao164133@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/chinmay29hub" target="_blank">
-<img src="https://img.shields.io/badge/chinmay29hub-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/chinmay-sonawane-38474019a/" target="_blank">
+<a href="https://www.instagram.com/smart1206" target="_blank">
+<img src="https://img.shields.io/badge/smart1206-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jackson-piao/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="mailto:chinmaysonawane57@protonmail.com" target="_blank">
+<a href="mailto:jacksonpiao164133@protonmail.com" target="_blank">
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/chinmay29hub" target="_blank">
+<a href="https://www.reddit.com/user/smart1206" target="_blank">
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCfc0iDwzZi7CLKIBWBCJNWw">
-<img src="https://img.shields.io/badge/chinmay29hub-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white">
+<img src="https://img.shields.io/badge/smart1206-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white">
 </a>&nbsp;&nbsp;
 </p>
 <br>
@@ -183,7 +180,7 @@
 ## Github Contributions 📈
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=chinmay29hub&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=smart1206&theme=react-dark&hide_border=true">
 <p>
 
 <hr>
@@ -191,7 +188,7 @@
 
 ## Just a snake eating my contributions 🐍
 <p align='center'>
-<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/smart1206/smart1206/raw/output/github-contribution-grid-snake.svg">
 </p>
 
 <hr>
@@ -200,7 +197,7 @@
 ## Waka Time Stats 🕰
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=chinmay29hub&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=smart1206&theme=github_dark">
 </p>
 
 <hr>
@@ -217,6 +214,6 @@
 <br>
 
 ------
-Credit : [chinmay29hub](https://github.com/chinmay29hub)
+Credit : [smart1206](https://github.com/smart1206)
 
 Last Edited on : 20/12/2021
