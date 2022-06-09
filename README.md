@@ -18,16 +18,7 @@ I'm Jackson Piao😉, technology consultant 👨🏻‍💻 from Hong Kong. I'm 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=smart1206&theme=dracula&no-bg=true&row=1"/>
 
 
-### GitHub Highlights: :blossom:
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smart1206&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
-<a href="">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=smart1206&theme=material-palenight"/>
-</a>
 
-### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=smart1206&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 
 -----
