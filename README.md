@@ -4,10 +4,6 @@ I'm Jackson Piao😉, technology consultant 👨🏻‍💻 from Hong Kong. I'm 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant+and+FinTech+Engineer;React/Web3/Solidity+Developer+with+7%2B+Years+Experience;Passionate+about+Algorithmic+Trading)](https://git.io/typing-svg)
 
-### How to reach me: 
-<a href="https://www.linkedin.com/in/jackson-piao/"><img src="https://img.shields.io/badge/jacksonpiao-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
-
-
 ### Tools I work upon : 🛠
 
 <img src="https://img.shields.io/badge/Java%20-%23E00033.svg?&style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">   <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white">   
